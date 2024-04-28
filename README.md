@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Muhammad Afzaal and I'm a Full Stack Developer, from Lahore Pakistan.</h2>
-
 ###
 <div align="center">
 
