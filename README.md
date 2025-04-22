@@ -1,5 +1,5 @@
 #  About Me:
-Hi There👋! My name is Muhammad Afzaal. I'm a passionate Software developer with 3+ years of experience building high-performance, scalable mobile apps
+Hi There👋! My name is Muhammad Afzaal. I'm a passionate Software developer with 4+ years of experience building high-performance, scalable mobile apps
 
 
 ## 🌐 Socials:
