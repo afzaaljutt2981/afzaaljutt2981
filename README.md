@@ -1,7 +1,7 @@
 #  About Me:
 Hi There👋! My name is Muhammad Afzaal. I'm a passionate Software developer with 4+ years of experience building high-performance, scalable mobile apps
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-afzaal-4b5b5718a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afzaalwaheed00@gmail.com) 
 
